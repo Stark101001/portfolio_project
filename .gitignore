@@ -1,3 +1,5 @@
 ### Django ###
-/media/
+
+
+media/
 portfolio/settings.py
